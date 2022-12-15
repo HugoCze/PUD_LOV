@@ -18,8 +18,11 @@ chrome_options.add_argument("--ignore-ssl-errors=yes")
 chrome_options.add_argument("--ignore-certificate-errors")
 chrome_options.add_argument("--allow-insecure-localhost")
 
-PATH = r"C:\Users\Hugo\PartyBot\chromedriver.exe"
-driver = webdriver.Chrome(PATH, options=chrome_options)
+chrome_options.headless = True
+driver = webdriver.Chrome(options=chrome_options)
+# win
+# PATH = r"C:\Users\Hugo\PartyBot\chromedriver.exe"
+# driver = webdriver.Chrome(PATH, options=chrome_options)
 
 ignored_exceptions=(NoSuchElementException,StaleElementReferenceException,ElementNotInteractableException, TimeoutException, ElementClickInterceptedException)
 wait = WebDriverWait(driver, 10, ignored_exceptions=ignored_exceptions)
