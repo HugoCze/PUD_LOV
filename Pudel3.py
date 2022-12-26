@@ -29,20 +29,22 @@ ignored_exceptions=(NoSuchElementException,StaleElementReferenceException,Elemen
 wait = WebDriverWait(driver, 10, ignored_exceptions=ignored_exceptions)
 
 comment_index = []
-content_of_comment = "Lorem"   
+content_of_comment = "Bezguście goni bezguście. Zobacz kobieto jak Pani Wachowicz nakrywa do stołu."   
 # content_of_comment = "Ech, teraz plynu do plukania sztucznej szczeki nie zareklam"   
 counter = 0
 
 class Pudlove: 
+
+    article = "https://www.pudelek.pl/katarzyna-cichopek-i-maciej-kurzajewski-juz-sa-po-wigilii-w-tym-roku-nieco-wczesniej-zdjecia-6847767886412608a"
     
     def start(self):
         print("Starting")
         try:
             start_time = time.time()
-            driver.get("https://www.pudelek.pl/robert-lewandowski-jednak-komentuje-30-milionow-premii-od-morawieckiego-to-sie-wszystko-dzieje-poza-pilkarzami-ktorzy-razem-z-kibicami-sa-ofiarami-6842487736318496a")
+            driver.get(Pudlove.article)
         except ignored_exceptions:
             print("starting again")
-            driver.get("https://www.pudelek.pl/robert-lewandowski-jednak-komentuje-30-milionow-premii-od-morawieckiego-to-sie-wszystko-dzieje-poza-pilkarzami-ktorzy-razem-z-kibicami-sa-ofiarami-6842487736318496a")
+            driver.get(Pudlove.article)
         self.terms_and_conditions()
         return start_time
     
