@@ -18,7 +18,9 @@ chrome_options.add_argument("--ignore-ssl-errors=yes")
 chrome_options.add_argument("--ignore-certificate-errors")
 chrome_options.add_argument("--allow-insecure-localhost")
 
-chrome_options.headless = True
+# chrome_options.headless = True
+chrome_options.headless = False
+
 driver = webdriver.Chrome(options=chrome_options)
 
 # PATH = r"C:\Users\Hugo\PartyBot\chromedriver.exe"
@@ -29,7 +31,7 @@ ignored_exceptions=(NoSuchElementException,StaleElementReferenceException,Elemen
 wait = WebDriverWait(driver, 10, ignored_exceptions=ignored_exceptions)
 
 comment_index = []
-content_of_comment = "Bezguście goni bezguście. Zobacz kobieto jak Pani Wachowicz nakrywa do stołu."   
+content_of_comment = "Bezguście goni bezguście. Zobacz kobieto jak Pani"   
 # content_of_comment = "Ech, teraz plynu do plukania sztucznej szczeki nie zareklam"   
 counter = 0
 
@@ -59,7 +61,7 @@ class Pudlove:
         # Solution for the nextpage issue
     def switch_to_next_page(self):
         print("switch to next page")
-        # time.sleep(2)
+        time.sleep(2)
         for i in range(19, 36):
             for j in range(2,4):
                 try:
@@ -74,10 +76,10 @@ class Pudlove:
 
     def look_for_desired_comment_on_single_page(self):
         print("look_for_desired_comment_on_single_page")
+    
         for i in range(0, 31):
             try:
                 comment_xp = f'//*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[{i}]/div/div[2]'
-                            #  //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[15]/div/div[2]
                 comment = driver.find_element(By.XPATH, comment_xp)
                 possible_text = comment.get_attribute('innerHTML')
                 if content_of_comment in possible_text:
@@ -104,7 +106,6 @@ class Pudlove:
             like_button = our_comment_xpath[:-6]
             print(f" like button: {like_button}")
             new_like_button = like_button + "div[1]/div[2]/div/button[1]"
-            # new_like_button_search = wait.until(EC.element_to_be_clickable((By.XPATH, new_like_button)))
             try:
                 new_like_button_search = driver.find_element(By.XPATH, new_like_button)
                 if content_of_comment in possible_text:

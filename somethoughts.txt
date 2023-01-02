@@ -1,0 +1,3 @@
+Just an idea...
+It turns out to be great approach to just add strict skip into comment search from terms that are generating massive amount of erors 
+in case of further go to homePage def I will also apply similiar solution there 
