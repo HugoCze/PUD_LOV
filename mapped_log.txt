@@ -1,0 +1,41 @@
+click - clicking given xpath: /html/body/div[3]/div/div[2]/div[3]/div/button[2] - def terms - clicking the accept terms button from terms def
+def getHomePage - No Exception on clicking terms - starting choose_option 
+choose_option - like button is empty going with search
+def search_comment - searching for comment
+def search_comment - calling for search_next def
+search_next - search for the next page button
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[33]/div/div[2]/div[3]/div/div - called from def search next on next button
+def search_comment - searching for comment
+def search_comment - calling for search_next def
+search_next - search for the next page button
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[23]/div/div[3]/div[3]/div/div - called from def search next on next button
+def search_comment - searching for comment
+def search_comment - calling for search_next def
+search_next - search for the next page button
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[22]/div/div[3]/div[3]/div/div - called from def search next on next button
+def search_comment - searching for comment
+def search_comment - calling for search_next def
+search_next - search for the next page button
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[23]/div/div[3]/div[3]/div/div - called from def search next on next button
+def search_comment - searching for comment
+def search_comment - calling for search_next def
+search_next - search for the next page button
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[24]/div/div[3]/div[3]/div/div - called from def search next on next button
+def search_comment - searching for comment
+def search_comment - calling for search_next def
+search_next - search for the next page button
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[27]/div/div[3]/div[3]/div/div - called from def search next on next button
+def search_comment - searching for comment
+def search_comment - calling for search_next def
+search_next - search for the next page button
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[25]/div/div[3]/div[3]/div/div - called from def search next on next button
+def search_comment - searching for comment
+def search_comment - got the comment
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[4]/div/div[1]/div[2]/div/button[1] - called from def search_comment on like button
+Time of looking the comment is equal to: 12.083048105239868 
+main - starting main - 
+def getHomePage - Exception on clicking terms - starting choose_option
+choose_option - like button is not empty going with mapped
+def mapped - starting mapped def
+Page search: 8
+Page mapped: 1

@@ -42,7 +42,9 @@ class Search_And_Like:
             print("got home page")
             self.terms(path, comment)
         except ignored_exceptions:
-            print(f"failed to get homePage - closing driver", file=open('SAL_Final.txt','a'))
+            print(f"{date_time} - failed to get homePage - closing driver", file=open('SAL_Final.txt','a'))
+            # self.main(path, comment)
+            # driver.close()
             driver.refresh()
             self.get_homePage(path, comment)
     
@@ -56,22 +58,28 @@ class Search_And_Like:
             self.search_comment(path, comment)
 
     def search_comment(self, path, comment):
-        print("search_comment - searching for comment", file=open('SAL_Final.txt','a'))
+        print("searching for comment")
         for i in range(0, 34):
             try:
                 possible_comment_xp = f'//*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[{i}]/div/div[2]'
                 comment_location = driver.find_element(By.XPATH, possible_comment_xp)
                 comment_text = comment_location.get_attribute('innerHTML')
+                # try:
+                #     print(f"def search comment text: {comment_text}", file=open('SAL_Final.txt','a')) #; our type {comment}")
+                # except UnicodeEncodeError:
+                #     pass
                 if comment_text.strip() == comment.strip():
-                    print("got the cooomment", file=open('SAL_Final.txt','a'))
+                    print(f"got the cooomment: {comment_text}", file=open('SAL_Final.txt','a'))
                     like_button = possible_comment_xp[:-6]
                     like_button_xp = like_button + "div[1]/div[2]/div/button[1]"
                     print("got the like butt")
-                    print(f"def click: used xpath: {like_button_xp}\n")
+                    # self.click_it(like_button_xp)
+                    print(f"def click: used xpath: {like_button_xp}", file=open('SAL_Final.txt','a'))
                     button_location = driver.find_element(By.XPATH, like_button_xp)
                     driver.execute_script("arguments[0].click();", button_location)
-                    print("search comment - clicked like", file=open('SAL_Final.txt','a'))
-                    return
+                    print("def click: clicked", file=open('SAL_Final.txt','a'))
+                    # print("click_it")
+                    break
             except ignored_exceptions:
                 pass
         else:
@@ -86,10 +94,14 @@ class Search_And_Like:
                     button_action = driver.find_element(By.XPATH, next_button_xp)
                     button_possible_text = button_action.get_attribute('innerHTML')
                     if button_possible_text == "Następna strona":
-                        print("got the next button", file=open('SAL_Final.txt','a'))
+                        # print(f"next page button text: {button_possible_text} ; next page button xp {next_button_xp}")
+                        print("got the next button")
+                        # self.click_it(next_button_xp)
+                        print(f"def click: used xpath: {next_button_xp}\n")
                         button_location = driver.find_element(By.XPATH, next_button_xp)
                         driver.execute_script("arguments[0].click();", button_location)
-                        print("search_next clicked next button" , file=open('SAL_Final.txt','a'))
+                        print("def click: clicked\n")
+                        # print("click_it")
                         self.search_comment(path, comment)
                 except ignored_exceptions:
                     pass
@@ -106,4 +118,4 @@ while True:
     SAL.main("marcin-prokop-drwi-z-tomasza-kammela-i-jego-sylwestrowych-zapewnien-foto-6851161590766400a", "Lewaki to najwięksi hipokryci i hejterzy")
     end_time = time.time()
     total_time = end_time - start_time
-    print(f"{date_time} - Time of looking the comment is equal to: {total_time} ",  file=open('SAL_Final.txt','a'))
+    print(f"Time of looking the comment is equal to: {total_time} ",  file=open('SAL_Final.txt','a'))
