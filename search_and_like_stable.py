@@ -1,5 +1,3 @@
-import asyncio
-import pprint
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
@@ -27,7 +25,7 @@ chrome_options.headless = True
 # chrome_options.headless = False
 
 driver = webdriver.Chrome(options=chrome_options)
-driver.set_page_load_timeout(15)
+driver.set_page_load_timeout(5)
 
 ignored_exceptions=(NoSuchElementException,StaleElementReferenceException,ElementNotInteractableException,\
      TimeoutException, ElementClickInterceptedException, InvalidSessionIdException)
@@ -115,7 +113,7 @@ class Search_And_Like:
 SAL = Search_And_Like()
 while True: 
     start_time = time.time()
-    SAL.main("marcin-prokop-drwi-z-tomasza-kammela-i-jego-sylwestrowych-zapewnien-foto-6851161590766400a", "Lewaki to najwięksi hipokryci i hejterzy")
+    SAL.main("ukochany-kingi-rusin-przygotowal-dla-niej-niespodzianke-ale-wszystko-poszlo-na-marne-poziom-ryzyka-byl-zbyt-duzy-6854711148919712a", "Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.")
     end_time = time.time()
     total_time = end_time - start_time
     print(f"Time of looking the comment is equal to: {total_time} ",  file=open('SAL_Final.txt','a'))

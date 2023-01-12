@@ -1,0 +1,1977 @@
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 1.1184251308441162 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 13.368490934371948 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 12.652889251708984 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.950735807418823 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.716935873031616 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.601409912109375 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.819153308868408 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.771502017974854 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.83396291732788 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.789838075637817 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.775762796401978 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.056429147720337 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.94015097618103 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.665683031082153 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.815674304962158 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.827035903930664 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+click - clicking given xpath: /html/body/div[3]/div/div[2]/div[3]/div/button[2] - clicked accept terms button
+search_comment - searching for comment
+Did find the comment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 0.9265930652618408 
+Counter: 1 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.697001934051514 
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.058102130889893 
+Counter: 2 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.68312406539917 
+Counter: 3 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.106448173522949 
+Counter: 4 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.076514720916748 
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.056688070297241 
+Counter: 5 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.068119049072266 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.00619101524353 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.587869882583618 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.556487321853638 
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.249664068222046 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+click - clicking given xpath: /html/body/div[3]/div/div[2]/div[3]/div/button[2] - clicked accept terms button
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.0431296825408936 
+Counter: 1 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.749405860900879 
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.08176589012146 
+Counter: 2 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.072657823562622 
+Counter: 3 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3381381034851074 
+Counter: 4 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3276150226593018 
+Counter: 5 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.855817794799805 
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.0727128982543945 
+Counter: 6 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.389732837677002 
+Counter: 7 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.07889723777771 
+Counter: 8 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3789567947387695 
+Counter: 9 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.799749851226807 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.424360990524292 
+Counter: 10 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3214869499206543 
+Counter: 11 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.448030948638916 
+Counter: 12 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 0.35852503776550293 
+Counter: 13 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3825018405914307 
+Counter: 14 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3895289897918701 
+Counter: 15 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.6505389213562012 
+Counter: 16 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3384020328521729 
+Counter: 17 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.805132150650024 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.4815690517425537 
+Counter: 18 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.230478286743164 
+Counter: 19 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.444251298904419 
+Counter: 20 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3749501705169678 
+Counter: 21 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.2920820713043213 
+Counter: 22 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.2940471172332764 
+Counter: 23 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4537310600280762 
+Counter: 24 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.979556322097778 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.438262939453125 
+Counter: 25 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4828457832336426 
+Counter: 26 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4144511222839355 
+Counter: 27 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3217980861663818 
+Counter: 28 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3391659259796143 
+Counter: 29 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4149188995361328 
+Counter: 30 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3739020824432373 
+Counter: 31 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+Terms and conditions starting...
+def click: clicked
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3771779537200928 
+Counter: 32 
+main - here we are at main. Calling get_homePage
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.759426832199097 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.7587382793426514 
+Counter: 33 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3514940738677979 
+Counter: 34 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4163169860839844 
+Counter: 35 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.400212049484253 
+Counter: 36 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4381520748138428 
+Counter: 37 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3681180477142334 
+Counter: 38 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.232038736343384 
+Counter: 39 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 12.20753002166748 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3673787117004395 
+Counter: 40 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3382811546325684 
+Counter: 41 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.378411054611206 
+Counter: 42 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.389017105102539 
+Counter: 43 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3318660259246826 
+Counter: 44 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4675681591033936 
+Counter: 45 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4447097778320312 
+Counter: 46 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.395596981048584 
+Counter: 47 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.940126895904541 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.6017839908599854 
+Counter: 48 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4788050651550293 
+Counter: 49 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.462967872619629 
+Counter: 50 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3902227878570557 
+Counter: 51 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.3760108947753906 
+Counter: 52 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3452668190002441 
+Counter: 53 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4080822467803955 
+Counter: 54 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.08168911933899 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4637470245361328 
+Counter: 55 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.5776560306549072 
+Counter: 56 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 3.2070400714874268 
+Counter: 57 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.4666519165039062 
+Counter: 58 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3806710243225098 
+Counter: 59 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.971346855163574 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 3.0700109004974365 
+Counter: 60 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4877171516418457 
+Counter: 61 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4140279293060303 
+Counter: 62 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5535342693328857 
+Counter: 63 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4528419971466064 
+Counter: 64 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5117840766906738 
+Counter: 65 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3403098583221436 
+Counter: 66 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4195938110351562 
+Counter: 67 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 12.582993030548096 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5227711200714111 
+Counter: 68 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3430089950561523 
+Counter: 69 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.472118854522705 
+Counter: 70 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4524109363555908 
+Counter: 71 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4303641319274902 
+Counter: 72 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4363558292388916 
+Counter: 73 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4863948822021484 
+Counter: 74 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.967710971832275 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.6495716571807861 
+Counter: 75 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5241522789001465 
+Counter: 76 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.314744234085083 
+Counter: 77 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4996449947357178 
+Counter: 78 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5575170516967773 
+Counter: 79 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4633221626281738 
+Counter: 80 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5589969158172607 
+Counter: 81 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3859741687774658 
+Counter: 82 
+main - here we are at main. Calling get_homePage
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.936259984970093 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.6728911399841309 
+Counter: 83 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.6306591033935547 
+Counter: 84 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5366311073303223 
+Counter: 85 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5830919742584229 
+Counter: 86 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3513588905334473 
+Counter: 87 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.513659954071045 
+Counter: 88 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3895280361175537 
+Counter: 89 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 11.169042825698853 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.6360690593719482 
+Counter: 90 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4238781929016113 
+Counter: 91 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5037989616394043 
+Counter: 92 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3715832233428955 
+Counter: 93 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.3623743057250977 
+Counter: 94 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.0857880115509033 
+Counter: 95 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:35:16.236388 -Terms and conditions not found - searching comment
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 10.859754085540771 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4391627311706543 
+Counter: 96 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.409142017364502 
+Counter: 97 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4033029079437256 
+Counter: 98 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3275609016418457 
+Counter: 99 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4210271835327148 
+Counter: 100 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.342473030090332 
+Counter: 101 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.457822322845459 
+Counter: 102 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.220168352127075 
+Counter: 103 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3139421939849854 
+Counter: 104 
+main - here we are at main. Calling get_homePage
+got the cooomment: Pani Kinga wygrała życie.Rozwod z Lisem wyszedł jej na dobre.
+def click: used xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1]
+def click: clicked
+Time of looking the comment is equal to: 1.1424779891967773 
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5706360340118408 
+Counter: 105 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4160566329956055 
+Counter: 106 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4029200077056885 
+Counter: 107 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3915760517120361 
+Counter: 108 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.471437692642212 
+Counter: 109 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3209888935089111 
+Counter: 110 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3194279670715332 
+Counter: 111 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.499843120574951 
+Counter: 112 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.359407901763916 
+Counter: 113 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.1657309532165527 
+Counter: 114 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.410168170928955 
+Counter: 115 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3030221462249756 
+Counter: 116 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4483089447021484 
+Counter: 117 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5175881385803223 
+Counter: 118 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.4150118827819824 
+Counter: 119 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3808262348175049 
+Counter: 120 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.1960160732269287 
+Counter: 121 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.2187061309814453 
+Counter: 122 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.02685809135437 
+Counter: 123 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.3485231399536133 
+Counter: 124 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.381518840789795 
+Counter: 125 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.5273969173431396 
+Counter: 126 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 1.669335126876831 
+Counter: 127 
+main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 2.287087917327881 
+Counter: 128 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.113728046417236 
+Counter: 129 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.060164213180542 
+Counter: 130 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.062823057174683 
+Counter: 131 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.076653242111206 
+Counter: 132 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.066375970840454 
+Counter: 133 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.085726976394653 
+Counter: 134 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.059509992599487 
+Counter: 135 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.0551722049713135 
+Counter: 136 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.066415786743164 
+Counter: 137 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.059341192245483 
+Counter: 138 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.081838846206665 
+Counter: 139 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.061079025268555 
+Counter: 140 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.069546937942505 
+Counter: 141 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.126089811325073 
+Counter: 142 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.061905145645142 
+Counter: 143 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.153036832809448 
+Counter: 144 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.067060947418213 
+Counter: 145 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.055724859237671 
+Counter: 146 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.062397003173828 
+Counter: 147 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.054869174957275 
+Counter: 148 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.068169832229614 
+Counter: 149 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.097071170806885 
+Counter: 150 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.0649659633636475 
+Counter: 151 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.06241512298584 
+Counter: 152 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.061192989349365 
+Counter: 153 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.062644958496094 
+Counter: 154 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.060211896896362 
+Counter: 155 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.094231843948364 
+Counter: 156 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.0662548542022705 
+Counter: 157 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.079252243041992 
+Counter: 158 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.063082933425903 
+Counter: 159 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.109122037887573 
+Counter: 160 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.060434103012085 
+Counter: 161 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.069884300231934 
+Counter: 162 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.085942029953003 
+Counter: 163 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.064679861068726 
+Counter: 164 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.06073784828186 
+Counter: 165 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.062814950942993 
+Counter: 166 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.062645196914673 
+Counter: 167 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.062077045440674 
+Counter: 168 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.062121152877808 
+Counter: 169 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.11114501953125 
+Counter: 170 
+main - here we are at main. Calling get_homePage
+2023-01-12 12:42:24.075504 - failed to get homePage - closing driver
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.063579797744751 
+Counter: 171 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.106688976287842 
+Counter: 172 
+main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment
+Did find the comment: Zazdroszczę takiego beztroskiego życia , ale tak pozytywnie 🥰 marzymy z mężem że kiedyś i my będziemy beztrosko sobie podróżować ❤️ a na dzień dzisiejszy musza nam starczyć wyjazdy kilka razy w roku ❤️
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 5.06060004234314 
+Counter: 173 
+main - here we are at main. Calling get_homePage
